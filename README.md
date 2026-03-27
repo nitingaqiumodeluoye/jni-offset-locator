@@ -1,5 +1,7 @@
 ﻿# jni-offset-locator
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 A Codex skill for locating JNI/native method addresses and module offsets in Android reverse engineering.
 
 ## Included
